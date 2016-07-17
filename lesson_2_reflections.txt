@@ -1,44 +1,43 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-An invisible .git folder is created in the folder which is initialized. This folders contains the commit historys and important files for git. This ic crucial when creating a new repository.
-***
+  An invisible .git folder is created in the folder which is initialized. This folders contains the commit historys and
+  important files for git. This ic crucial when creating a new repository.
 
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-The staging area is like a wating room where one can determine what to commit next. This third option gives more flexibility in the programming process. Not all changes in the working directory have to be commited to the repository.
-***
+  The staging area is like a wating room where one can determine what to commit next. This third option gives more
+  flexibility in the programming process. Not all changes in the working directory have to be commited to the repository.
 
 
 How can you use the staging area to make sure you have one commit per logical
 change?
 
 Just define and load files to the staging area which define one logical change to the previous version.
-***
 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
-One reason might be implementing a complete new feature that has to be tested separately within a new branch. Another reason for starting a new branch might be the localization to a new language.
-***
+  One reason might be implementing a complete new feature that has to be tested separately within a new branch. Another
+  reason for starting a new branch might be the localization to a new language.
 
 
 How do the diagrams help you visualize the branch structure?
 
-This helps understanding the concept of branches a lot. Furthermore, it visualizes all branches and commits of a project in a clear way.
-***
+  This helps understanding the concept of branches a lot. Furthermore, it visualizes all branches and commits of a project
+  in a clear way.
 
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
-Both branches are combined to a new branch, however, they keep their histories.
-***
+  Both branches are combined to a new branch, however, they keep their histories.
 
 
 What are the pros and cons of Git´s automatic merging vs. always doing merges
 manually?
 
-Automatic merging is a nice feature in the case of no merge conflicts. Otherwise the user has to resolve the conflict in order to complete the merger.
+  Automatic merging is a nice feature in the case of no merge conflicts. Otherwise the user has to resolve the conflict in
+  order to complete the merger.
