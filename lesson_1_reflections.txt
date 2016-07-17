@@ -41,5 +41,5 @@ could break something?
 
 Now that you have your workspace set up, what do you want to try using Git for?
 
-To keep track of new files when learning a new programming language. It might be interesting to see how the code develops
-when making progress in the classes.
+  To keep track of new files when learning a new programming language. It might be interesting to see how the code develops
+  when making progress in the classes.
