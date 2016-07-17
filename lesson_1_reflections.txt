@@ -7,7 +7,8 @@ How did viewing a diff between two versions of a file help you see the bug that 
 How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
 
   One can easily find mistakes and learn from them. It is often the case when updating or altering code, that the new code
-  isn´t working appropriatly. In this case it is easy to undo changes and go back to the previous working versions of that code. This might save a lot of time.
+  isn´t working appropriatly. In this case it is easy to undo changes and go back to the previous working versions of that code. 
+  This might save a lot of time.
 
 
 What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having
