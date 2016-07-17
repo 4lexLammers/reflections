@@ -14,7 +14,7 @@ What value do you think it offers?
 How can you use the staging area to make sure you have one commit per logical
 change?
 
-Just define and load files to the staging area which define one logical change to the previous version.
+  Just define and load files to the staging area which define one logical change to the previous version.
 
 
 What are some situations when branches would be helpful in keeping your history
