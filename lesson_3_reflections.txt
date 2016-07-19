@@ -21,9 +21,9 @@ stored locally?
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Fill in your answer here
+    Collaboration might be accomplished by using the Google Drive or Dropbox for example. Since GitHub is especially designed for coding it might be the easiest way.
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    One can easily test new feature within a separate branch without changing the original code on the master branch. By using a pull request via GitHub the owner of the code can review the changes one made and might correct some typos or errors in the code. If everything is all right then this changes can be merged into the master branch.
