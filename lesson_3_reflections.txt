@@ -3,27 +3,40 @@ local?
 
     Working on a remote repository might be a good backup. Moreover, other people can contribute.
 
+
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Other people might commit changes in the remote repository while I am working on the same branch locally. In this case there might be merge conflicts. I think it is a good idea to pull changes manually.
+    Other people might commit changes in the remote repository while I am working on the same branch locally. 
+    In this case there might be merge conflicts. I think it is a good idea to pull changes manually.
+
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
 
-    A fork is a direct clone of a repository in GitHub with a reference to the owner. Clones are exact copies of a local repository (Basically a fork is also a clone with additionally setting the right remote location). Branches are used as discussed in lesson 1 for testing or adding new feature aside of the master branch.
+    A fork is a direct clone of a repository in GitHub with a reference to the owner. Clones are exact copies 
+    of a local repository (Basically a fork is also a clone with additionally setting the right remote location). 
+    Branches are used as discussed in lesson 1 for testing or adding new feature aside of the master branch.
+
 
 What is the benefit of having a copy of the last known state of the remote
 stored locally?
 
-    One can easily track changes which are commited from other users and decide whether to merge or not. This might also work as a backup of the last known state.
+    One can easily track changes which are commited from other users and decide whether to merge or not. 
+    This might also work as a backup of the last known state.
+
 
 How would you collaborate without using Git or GitHub?  What would be easier,
 and what would be harder?
 
-    Collaboration might be accomplished by using the Google Drive or Dropbox for example. Since GitHub is especially designed for coding it might be the easiest way.
+    Collaboration might be accomplished by using the Google Drive or Dropbox for example. Since GitHub 
+    is especially designed for coding it might be the easiest way.
+
 
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    One can easily test new feature within a separate branch without changing the original code on the master branch. By using a pull request via GitHub the owner of the code can review the changes one made and might correct some typos or errors in the code. If everything is all right then this changes can be merged into the master branch.
+    One can easily test new feature within a separate branch without changing the original code on the 
+    master branch. By using a pull request via GitHub the owner of the code can review the changes one 
+    made and might correct some typos or errors in the code. If everything is all right then this changes 
+    can be merged into the master branch.
